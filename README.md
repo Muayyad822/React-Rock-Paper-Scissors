@@ -1,8 +1,29 @@
-# React + Vite
+# Rock-Paper-Scissors Game 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Rock-Paper-Scissors game! This is a fun and interactive web-based game built with Vite + React. Test your luck and strategy against the computer, and see if you can win five rounds to unlock Level 2 with smarter computer choices!
 
-Currently, two official plugins are available:
+# Features ✨
+Interactive Gameplay: Choose between Rock, Paper, or Scissors and compete against the computer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Score Tracking: Keep track of your wins, losses, and trials.
+
+Level System: Unlock Level 2 after winning five rounds, where the computer makes smarter choices.
+
+How-To Page: Learn how to play the game with a detailed guide.
+
+Responsive Design: Play the game on any device (desktop, tablet, or mobile).
+
+# Technologies Used 💻
+Frontend:
+React
+Vite (for fast development and bundling)
+CSS (for styling)
+
+Routing:
+React Router (for navigation between the game and How-To page)
+
+State Management:
+React Hooks (useState, useEffect)
+
+Deployment:
+GitHub Pages
